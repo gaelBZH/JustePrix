@@ -1,0 +1,9 @@
+Versions du Jeu Le Juste Prix :
+
+-V1 : Jeu de Base. 3 Niveaux.
+-V2 : Ajout Niveaux 4 et 5.
+-V3 : Ajout Niveau Personalisé x et des Règles en Commentaire (#).
+-V4 : Ajout Mode Multijoueur et Résultats.
+-V5 : Ajout du Menu de Jeu et Nettoyage de la Console par le Module os.
+-V6 : Ajout de la fonction Langue disponible en Français et en Anglais.
+-V7 : Ajout des langues Allemand, Espagnol, Italien et Russe.
